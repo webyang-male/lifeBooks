@@ -6,7 +6,7 @@ description:
 ---
 > 一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。
 
-​																																						—— 三毛
+​																																					<span align="right">—— 三毛</span>
 
 ![](https://gitee.com/initzzy/blog-image/raw/master/jiaozi.jpg)
 
