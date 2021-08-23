@@ -22,7 +22,9 @@ Github: https://github.com/webyang-male
 Blog: guess?
 Hobbies: photography, Internet, front-end technology,Running,Reading,Music,ACGN
 Target: 前端工程师 || 全栈工程师 || undefined
-Dream: 可以在喜欢的城市生活、去很多地方旅游、和很多大佬交朋友(滑稽)、拥有过k的开源项目、还有那个ta（皆为不切实际的）
+Dream: 
+	- 可以在喜欢的城市生活、去很多地方旅游、和很多大佬交朋友(滑稽)
+	- 拥有过k的开源项目、还有那个ta（皆为不切实际的）
 other: NULL
 ````
 
