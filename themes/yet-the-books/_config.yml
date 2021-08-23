@@ -11,7 +11,7 @@ archives:
 
 menu:
   归档: archives
-  关于: about
+  关于: about.md
 
 github:
   repo: nexmoe/books # nexmoe/books
