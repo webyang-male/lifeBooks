@@ -12,7 +12,7 @@ archives:
 
 #导航栏菜单
 menu:
-  Tag: tags
+  Notice: notice
 
 github:
   repo: webyang-male/lifeBooks # nexmoe/books
