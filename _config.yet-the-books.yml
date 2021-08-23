@@ -13,7 +13,7 @@ archives:
 #导航栏菜单
 menu:
   Notice: notice
-  关于: about
+  关于: about/about.html
 
 github:
   repo: webyang-male/lifeBooks # nexmoe/books
