@@ -4,6 +4,6 @@ LICENSE
 up.sh
 .dist/
 node_modules
-public/
+
 *.log
 temp/
