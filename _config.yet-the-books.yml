@@ -15,6 +15,11 @@ menu:
   Notice: notice
   关于: about/about.html
 
+#主题页脚链接
+footer_link:
+  大赵文档: https://zain-doc.vercel.app/#/
+  大赵导航: https://website-nav.vercel.app/
+
 github:
   repo: webyang-male/lifeBooks # nexmoe/books
   edit: true # true,false
