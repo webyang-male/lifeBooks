@@ -4,7 +4,8 @@ favicon:
 
 search: https://cn.bing.com/search?q= # https://www.google.com/search?q==
 order_by: date # date,-date,title,url,...
-head: '<!--<script src="" async></script>-->' # Add anything to <head></head>
+head:  # Add anything to <head></head>   '<!--<script src="" async></script>-->'
+  - '<link rel="stylesheet" href="/css/zainBooks.css">' #自定义css
 
 archives:
   switch: false # true,false Switching this function.
