@@ -1,9 +1,10 @@
 ---
 title: CET6
 tags: 百草园
-categories: 日常朋友圈
+categories: 日常
 abbrlink: 34746
 date: 2021-08-26 21:52:45
+color: blue
 ---
 
 
